@@ -1,19 +1,19 @@
-# Estudios de SQL y MySQL Server 
+# SQL and MySQL Server Studies
 
 <p align="center" >
      <img width="200" heigth="200" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
 </p>
 
-### ¡Bienvenido al repositorio! 
+### Welcome to the repository!
 
-La finalidad es llevar un registro de todos los estudios, avances y proyectos personales que haga en base de datos.
+The purpose of this repository is to keep a record of all the studies, progress, and personal projects related to databases.
 
 
-### Pasos principales:
+### Main Steps:
 
-#### ⭐Marca este proyecto con una estrella 
+#### ⭐Star this proyect. 
 
-- ### Tecnologías utilizadas:
+- ### Technologies Used:
 
   - [MySql](https://www.mysql.com/)
   - [MySQL Workbench](https://www.mysql.com/products/workbench/)
